@@ -1,6 +1,6 @@
 # Back-End Python 🐍
 
-Este repositório contém as atividades realizadas durante o curso de **Back-End com Python**.
+Este repositório contém as atividades realizadas durante o curso de **Back-End com Python** Softex BFD.
 
 
 ## 🚀 Objetivo
